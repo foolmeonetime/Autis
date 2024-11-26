@@ -22,12 +22,13 @@ export default function Home() {
           {/* Description */}
           <div className="bg-white/80 backdrop-blur-sm rounded-lg p-6 shadow-lg">
             <h1 className="text-3xl font-bold mb-4">About Autis</h1>
-            <p className="text-lg text-gray-700">
+            <p className="text-lg text-gray-700 leading-relaxed">
               A whimsical representation of the internet's favorite feline phenomenon - 
               a fluffy white cat with a surreal twist. The top of its head opens up to 
               reveal a serene pool of water complete with tiny swimming monkeys, creating 
               a perfect blend of cute and quirky that captures the essence of crypto meme culture.
-               For Entertainment Purposes Only.
+              <br />
+              <span className="text-sm text-gray-500">For Entertainment Purposes Only.</span>
             </p>
           </div>
         </div>
