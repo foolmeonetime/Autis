@@ -25,8 +25,9 @@ export default function Home() {
             <p className="text-lg text-gray-700">
               A whimsical representation of the internet's favorite feline phenomenon - 
               a fluffy white cat with a surreal twist. The top of its head opens up to 
-              reveal a serene pool of water complete with tiny swimming hippos, creating 
+              reveal a serene pool of water complete with tiny swimming monkeys, creating 
               a perfect blend of cute and quirky that captures the essence of crypto meme culture.
+               For Entertainment Purposes Only.
             </p>
           </div>
         </div>
