@@ -5,15 +5,15 @@ import { Twitter, Send } from "lucide-react";
 export default function Home() {
   return (
     <main className="min-h-screen bg-babyblue relative overflow-hidden flex flex-col">
-      <div className="container mx-auto px-4 py-8 relative z-10 flex-grow">
+      <div className="container mx-auto px-4 py-8 relative z-10 flex-grow flex justify-center items-center">
         {/* Hero section with meme */}
         <div className="max-w-3xl mx-auto text-center mb-12">
           <div className="rounded-lg overflow-hidden shadow-2xl mb-8 bg-white p-4">
             <Image
               src="/IMG_0778.jpeg"
               alt="White cat with pool of water and hippos in its head"
-              width={600}
-              height={600}
+              width={500}  // Reduced image width
+              height={500} // Reduced image height
               className="w-full h-auto rounded-lg"
               priority
             />
