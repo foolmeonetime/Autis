@@ -12,8 +12,8 @@ export default function Home() {
             <Image
               src="/IMG_0778.jpeg"
               alt="White cat with pool of water and hippos in its head"
-              width={500}  // Reduced image width
-              height={500} // Reduced image height
+              width={500}
+              height={500}
               className="w-full h-auto rounded-lg"
               priority
             />
