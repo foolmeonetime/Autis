@@ -49,7 +49,7 @@ export default function Home() {
 
           <div className="flex gap-4">
             <Link
-              href="https://x.com/autissscat?s=21"
+              href="https://x.com/themontrealer1?s=21"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-600 transition-colors"
