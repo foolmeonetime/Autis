@@ -29,7 +29,7 @@ export default function Home() {
               reveal a serene pool of water complete with tiny swimming monkeys, creating 
               a perfect blend of cute and quirky that captures the essence of crypto meme culture.
               <br />
-              <span className="text-sm text-gray-500">For Entertainment Purposes Only.</span>
+              <span className="text-sm text-gray-500 font-bold">For Entertainment Purposes Only.</span>
             </p>
           </div>
         </div>
