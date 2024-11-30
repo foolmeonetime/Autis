@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react"
 import Image from "next/image";
 import Link from "next/link";
 import { Twitter, Send } from "lucide-react";
